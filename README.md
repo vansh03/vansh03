@@ -1,6 +1,6 @@
                                      Hola , I'm 𝕍𝔸ℕ𝕊ℍ 𝕂𝔸ℝℕ𝕎𝔸𝕃 👋 
                                      
-                                        Linkedin || Instagram
+                                        [Linkedin](https://www.linkedin.com/in/vansh-karnwal-56b62b1b4/) || [Instagram](https://www.instagram.com/vannssh_/) 
           
 
 <!--
