@@ -1,8 +1,11 @@
                                      Hola , I'm 𝕍𝔸ℕ𝕊ℍ 𝕂𝔸ℝℕ𝕎𝔸𝕃 👋 
                                      
-                                        [Linkedin](https://www.linkedin.com/in/vansh-karnwal-56b62b1b4/) || [Instagram](https://www.instagram.com/vannssh_/) 
-          
-
+                              [Linkedin]() || [Instagram](https://www.instagram.com/vannssh_) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-karnwal-56b62b1b4/">LinkedIN</a> •
+  <a href="https://www.instagram.com/vannssh_/">Instagram</a> •
+  
+</p>
 <!--
 **vansh03/vansh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
