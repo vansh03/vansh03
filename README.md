@@ -1,4 +1,4 @@
-                                    <h1 align="center>  Hola , I'm 𝕍𝔸ℕ𝕊ℍ 𝕂𝔸ℝℕ𝕎𝔸𝕃 👋 </h1>
+                                                 Hola , I'm 𝕍𝔸ℕ𝕊ℍ 𝕂𝔸ℝℕ𝕎𝔸𝕃 👋 
                                      
 <p align="center">
   <a href="https://www.linkedin.com/in/vansh-karnwal-56b62b1b4/">LinkedIN</a> ||
