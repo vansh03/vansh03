@@ -6,8 +6,8 @@
   
 </p>
 
-- 🌱 I’m currently learning Reactjs , Nodejs ..
-- 💬 Ask me about Reactjs
+- 🌱 I’m currently learning Golang, PostgresQL ..
+- 💬 Ask me about Golang
 - 📫 How to reach me: vkarnwal14@gmail.com
 
 
